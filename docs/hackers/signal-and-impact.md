@@ -1,5 +1,5 @@
 ---
-title: "Signal and Impact"
+title: "Signals and Impacted"
 path: "/hackers/signal-and-impact.html"
 id: "hackers/signal-and-impact"
 ---
@@ -11,7 +11,7 @@ HackerOne displays a hacker's percentile rank for their Signal and Impact relati
 ![how signal and impact look on a HackerOne profile](./images/sig-impact-rep-stats.png)
 
 ### Signal and Impact Facts
-Question  | Signal | Impact
+Questions  | Signals | Impacts
 -- | ------ | -------
 What is it? | Average [reputation](/hackers/reputation.html) per report. As reputation is gained or lost each time a report is closed, Signal is an aggregate representation of report validity. It corresponds to reputation changes for triage states ranging from "Spam" to "Resolved." <br><br>Your signal from the last 365 days affects your [signal requirements](/hackers/restricted-from-submissions.html#signal-requirements) for a program.  | Average reputation per bounty. As reputation is gained based on the relative size of the awarded bounty, Impact is an aggregate representation of report severity. It corresponds to reputation gains calculated by bounty levels awarded.
 What's the measured scale? | -10 to 7 | 0 to 50
